@@ -5,4 +5,4 @@ Web scraping is an automatic method to obtain large amounts of data from website
 
 Most of this data is unstructured data in an HTML format which is then converted into structured data in a spreadsheet or a database so that it can be used in various applications.
 
-Here we are scrapping a flipkart webpage that conatins details about Lenovo laptops.
+Here we are scrapping a flipkart webpage that contains details about Lenovo laptops.
